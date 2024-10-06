@@ -1,0 +1,1 @@
+Starting point for creating a javascript chatbot that injects into your current website
